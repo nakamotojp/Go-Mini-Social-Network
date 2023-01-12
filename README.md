@@ -95,3 +95,42 @@ Support this project with your organization. Your logo will show up here with a 
 <a href="https://opencollective.com/Go-Mini-Social-Network/organization/7/website"><img src="https://opencollective.com/Go-Mini-Social-Network/organization/7/avatar.svg"></a>
 <a href="https://opencollective.com/Go-Mini-Social-Network/organization/8/website"><img src="https://opencollective.com/Go-Mini-Social-Network/organization/8/avatar.svg"></a>
 <a href="https://opencollective.com/Go-Mini-Social-Network/organization/9/website"><img src="https://opencollective.com/Go-Mini-Social-Network/organization/9/avatar.svg"></a>
+
+
+go install github.com/badoux/checkmail@latest
+go install github.com/gin-gonic/gin@latest
+go install github.com/go-sql-driver/mysql@latest
+go install github.com/gorilla/sessions@latest
+go install github.com/joho/godotenv@latest
+go install github.com/urfave/negroni@latest
+go install golang.org/x/crypto@latest
+
+go install github.com/gin-contrib/sse@latest
+
+go install github.com/golang/protobuf@latest
+
+go install github.com/gorilla/context@latest
+
+go install github.com/gorilla/securecookie@latest
+
+go install github.com/gorilla/sessions@latest
+
+go install github.com/gin-contrib/sse@latest
+
+go install github.com/json-iterator/go@latest
+
+go install github.com/mattn/go-isatty@latest
+
+go install github.com/modern-go/concurrent@latest
+
+go install github.com/modern-go/reflect2@latest
+
+go install github.com/ugorji/go@latest
+
+go install github.com/urfave/negroni@latest
+
+go install golang.org/x/sys@latest
+
+go install gopkg.in/go-playground/validator.v8@latest
+
+go install gopkg.in/yaml.v2@latest
